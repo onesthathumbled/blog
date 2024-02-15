@@ -57,3 +57,9 @@
 .RightMenu {
   margin-top: 10px;
 }
+
+.PostForm {
+  display: flex;
+  justify-content: center;
+  padding: 30px 0;
+}

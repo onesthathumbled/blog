@@ -1,5 +1,6 @@
 import React from "react";
 import PostForm from "./PostForm";
+import Feed from "./Feed";
 
 const MiddleBox = () => {
   return (
@@ -12,6 +13,7 @@ const MiddleBox = () => {
 
       <div>
         <PostForm />
+        <Feed />
       </div>
     </div>
   );
